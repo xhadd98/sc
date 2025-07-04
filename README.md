@@ -1,15 +1,11 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%F51AF7FF&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+SWEATER+P+I+N+K" />
-</p>
-
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Sotgen/bia/main/main.sh && chmod +x main.sh && ./main.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/xhadd98/sc/main/main.sh && chmod +x main.sh && ./main.sh
 ```
 
 ## UPDATE SCRIPT
 ```
-wget -q [https://raw.githubusercontent.com/sweeater/script/main/update.sh](https://raw.githubusercontent.com/Sotgen/bia/main/main.sh) && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/xhadd98/sc/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ### WORK DI OS
